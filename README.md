@@ -1,4 +1,4 @@
-# [page-shuffler](https://nfj1618-page-shuffler-app-ha4xvd.streamlitapp.com/)
+# [page-shuffler](https://page-shuffler.streamlit.app/)
 
 A simple [Streamlit](https://streamlit.io/) 🎈 web app to help you shuffle your PDF files
 
